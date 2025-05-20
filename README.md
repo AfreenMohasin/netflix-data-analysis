@@ -24,3 +24,11 @@ Sourced from [Kaggle Netflix Titles Dataset](https://www.kaggle.com/datasets/shi
 - Plotting bar charts using Seaborn and Matplotlib
 - Interpreting trends in real-world datasets
 
+## 📊 Visualizations Added
+- Distribution of Movie Duration
+- Content Added Over Years
+- Country-wise Title Count
+- Type of Content by Country
+- Top 10 Genres
+- Movie vs TV Show Count
+- Top Years of Content Release
