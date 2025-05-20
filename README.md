@@ -1,30 +1,30 @@
-# 📊 Netflix Data Analysis
+NETFLIX DATA ANALYSIS
 
 A beginner-friendly exploratory data analysis (EDA) project using the Netflix Titles dataset.
 
-#🔧 Tools Used
+TOOLS USED
 - Python
 - Pandas
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
 
-#📌 Key Insights
+KEY INSIGHTS
 - Most common content type on Netflix
 - Most popular genres and categories
 - Top years with maximum content releases
 
-#📁 Dataset
+DATASET
 Sourced from [Kaggle Netflix Titles Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 
-#🧠 What I Learned
+WHAT I LEARNED
 - Data cleaning and preprocessing
 - Value counts and frequency analysis
 - Plotting bar charts using Seaborn and Matplotlib
 - Interpreting trends in real-world datasets
 
-## 📊 Visualizations Added
+VISUALIZATIONS ADDED
 - Distribution of Movie Duration
 - Content Added Over Years
 - Country-wise Title Count
